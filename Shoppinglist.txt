@@ -6,3 +6,5 @@ Grapes
 Cherries
 Guavas
 Strawberries
+Cereals
+Bread
